@@ -60,6 +60,10 @@ Place and connect the following components:
 
 ## Analysis
 Compare the simulation results with the theoretical calculations and discuss any observed differences.
+<img width="1289" height="1600" alt="WhatsApp Image 2026-05-26 at 5 11 43 PM" src="https://github.com/user-attachments/assets/f5265b46-fef9-4904-8960-873e002fbf0e" />
+
+<img width="1047" height="456" alt="image" src="https://github.com/user-attachments/assets/7fc892ec-aa9a-4e70-a3d2-bcedb47d2dab" />
+
 
 
 ---
